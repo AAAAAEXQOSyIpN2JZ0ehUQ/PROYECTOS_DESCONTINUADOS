@@ -1,2 +1,0 @@
-rm -rf /etc/http-shell
-rm -rf /etc/SCRIPT
