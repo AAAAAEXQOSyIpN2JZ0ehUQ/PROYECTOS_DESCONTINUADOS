@@ -1,6 +1,0 @@
-# Portugues install:
-
-wget https://raw.githubusercontent.com/RicKbrL/VpsPack/master/install && bash install
-
-Hecho Por RicKbrL
-

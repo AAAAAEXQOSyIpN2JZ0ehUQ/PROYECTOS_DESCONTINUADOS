@@ -1,8 +1,0 @@
-#!/bin/bash
-echo -e "\033[1;31mHosts atualmente permitidos\n\n\033[1;32m$(cat /etc/payloads)\n\033[0m"
-echo "Cual host desea agregar ?"
-read -p ": " host
-echo "$host" >> /etc/payloads
-squid -k reconfigure > /dev/null 2> /dev/null
-squid3 -k reconfigure > /dev/null 2> /dev/null
-echo "$host Agregado" 
