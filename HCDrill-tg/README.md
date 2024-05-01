@@ -1,2 +1,0 @@
-# HCDrill-tg
- Decencriptador
